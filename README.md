@@ -37,12 +37,8 @@ Hyperparameters:
 * Learning rate: 0.00025 
 * The number of iterations: 20000
 ## Testing and output file
-See VRDL_HW3.ipyhb or predict.py
+See VRDL_HW3.ipyhb or predict.py 'Make predictions' part 
 ## References
-1. Detectron2:
+1. Detectron2: https://github.com/facebookresearch/detectron2.
 
-https://github.com/facebookresearch/detectron2.
-
-2. Instance-Segmentation-using-Detectron2: 
-
-https://github.com/AlessandroSaviolo/Instance-Segmentation-using-Detectron2.
+2. Instance-Segmentation-using-Detectron2: https://github.com/AlessandroSaviolo/Instance-Segmentation-using-Detectron2.
